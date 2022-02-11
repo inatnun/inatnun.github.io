@@ -100,6 +100,10 @@ footer span a {
   color: white;
   padding: 8px auto;
   font-size: 32px;
+  border: 0px;
+}
+.start-button:hover {
+  background-color: #7e7e7e;
 }
 .blog-main {
   border-right: 1px solid #d8d8d8;
