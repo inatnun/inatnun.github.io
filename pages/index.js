@@ -1,4 +1,6 @@
 import Head from 'next/head';
+import Script from 'next/script';
+// import { Html, Head, Main, Script } from 'next/document'
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 
