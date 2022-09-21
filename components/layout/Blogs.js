@@ -20,7 +20,6 @@ const Blogs = () => {
     };
     callApi();
   }, []);
-  console.log(blogs);
   return (
     <Grid container spacing={2}>
       {blogs &&
